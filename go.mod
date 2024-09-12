@@ -1,4 +1,4 @@
-module github.com/gen2brain/avif
+module github.com/Araoz-Lucas-bah/avif
 
 go 1.23.0
 
